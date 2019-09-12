@@ -4,7 +4,7 @@ bottleneck distances for persistent homology traits, simulation for berry potent
 and other geometric features used in the study described in:
 
 Mao Li, Laura L. Klein, Keith Duncan, Ni Jiang, Daniel H. Chitwood, Jason Londo, Allison J. Miller, Christopher N. Topp (2019)
-Characterizing grapevine (Vitis spp.) inflorescence architecture using X-ray imaging: implications for understanding bunch density
+Characterizing 3D inflorescence architecture in grapevine using X-ray imaging and advanced morphometrics: implications for understanding cluster density. bioRxiv 557819 and Journal of Experimental Botany, in press
 
 Code is implemented by Mao Li (maoli0923@gmail.com, github:maoli0923).
 
