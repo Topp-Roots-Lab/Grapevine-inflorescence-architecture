@@ -13,3 +13,5 @@ A few remarks:
 (a) The study was based on mesh.ply files from X-ray imaging.
 
 (b) Computing persistence barcode needs to install Javaplex http://appliedtopology.github.io/javaplex/
+
+Note that some functions such as 'edgeL2adj','networkComponents',and 'ply_read' are origially implemented by others. You can find these authors' names in each function file if available.
